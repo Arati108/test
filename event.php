@@ -1,6 +1,6 @@
 <?php include_once('include/config.php');?>
 <?php include_once('include/header.php');?>
-<script type="text/javascript">
+<script type="text/javascript" >
 	function insert()
 	{
 	/*var name=$('#name').val();
