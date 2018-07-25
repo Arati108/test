@@ -1,7 +1,7 @@
 <?php include_once('include/config.php');?>
 <?php include_once('include/header.php');?>
 
-<script type="text/javascript" name="Arati" >
+<script type="text/javascript">
 
 	function insert()
 	{
